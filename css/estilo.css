@@ -1,7 +1,46 @@
 h1{
     text-align: center;
 }
+h2{
+    text-align: center;
+}
 
 body{
-    color: rgb(159, 8, 189);
+    color: rgb(211, 171, 238);
+    background-color: rgb(55, 24, 83);
 }
+.menu{
+    background-color: rgb(127, 38, 168)   ;
+    padding: 2%;
+}
+
+.container{
+
+    width: 80%;
+    margin: auto;
+
+}
+.img_topo{
+    width: 100%;  
+}
+p{
+    font-size: 1.6em;
+    color: #ffffffcb;
+    font-weight: bold;
+    text-indent: 60px;
+    text-align: center;
+    
+
+}
+
+footer{
+    background-color: rgb(151, 86, 194)
+ }
+ .img_corpo{
+    width: 60%;
+}
+
+figure{
+    text-align: center;
+}
+
